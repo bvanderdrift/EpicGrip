@@ -1,0 +1,143 @@
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\PWSXbox.exe
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\PWSXbox.pdb
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\obj\Xbox 360\Debug\PWSXbox.exe
+c:\users\beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\obj\Xbox 360\Debug\PWSXbox.pdb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\1.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\2.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\3.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\4.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\5.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\6.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Controls\Button.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\SigninMenu\Selector.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Controls\ButtonFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\SigninMenu\SigninFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Popup\MessageFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Popup\HeadingFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Scary Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Angel Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Coushon Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Hell Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Metallic Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\NightClub Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Wooden Theme.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Scary Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Angel Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Coushon Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Hell Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Metallic Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\NightClub Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Songs\Wooden Theme.wma
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\ArrowLeft.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\ArrowRight.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\InfoBlock.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\Locked.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\PreviewFrame.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\d-pad.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_a.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_b.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_back.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_start.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_x.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\facebutton_y.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\left_bumper.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\left_thumbstick.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\left_trigger.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\right_bumper.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\right_thumbstick.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\64\right_trigger.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\back.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\d-pad.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\facebutton_a.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\facebutton_b.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\facebutton_x.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\facebutton_y.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\left_bumper.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\left_thumbstick.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\left_trigger.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\right_bumper.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\right_thumbstick.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\right_trigger.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\XboxButtons\32\start.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\ChooseArena\ChooseArenaFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shade.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\PostProcessing\Angel Arena\Halo Left.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\PostProcessing\Angel Arena\Halo Right.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\PostProcessing\NightClub Arena\SpotLight.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\1.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\2.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\3.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\4.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\5.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\6.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Arenas\7.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 1 Window.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 1.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 2 Window.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 2.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 3 Window.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 3.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 4 Window.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Car 4.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Fume.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Def_Upgr\Shield.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Popup\PopupNoOk.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Popup\PopupOk.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\Offensive Items\Explosion.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\Offensive Items\Mine\Mine.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\Offensive Items\Mine\Mine_Light.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\Offensive Items\Rockets\CRocket.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\Offensive Items\Rockets\Rocket.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\MoneyDisplay.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\CarShop\CarInfoBox.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\CarShop\ExampleRoad.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\CRocketEx.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\InfoBox.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\MineEx.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\Preview.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\PreviewLA.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\PreviewRA.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\RocketEx.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\EndingFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\EndingTitleFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\HPFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\InGameGraphics\PauseMenuFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\MoneyFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\CarShop\InfoBoxFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\OffUpgrades Shop\InfoFont.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\10.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\11.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\12.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\7.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\8.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Basic backgrounds\9.xnb
+C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Arrow.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Cars\Def_Upgr\Shield_Glow.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Cars\Car_1.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Cars\Car_2.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Cars\Car_3.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Cars\Car_4.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Color_Selection\Preview.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Def_Upgr\None.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Def_Upgr\Shield.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Def_Upgr\Shield_Glow.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\ExampleRoad.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Locked.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_0.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_1.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_2.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_3.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\Def_Upgr_Shop\InfoBox.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\In_Game\Blast.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Metallic_Hit.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Rest_Hit.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Wooden_Hit.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\Menu\Click.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\Menu\Error.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Audio\Effects\Menu\Lar.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Credits\CreditsFont.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Shop\Def_Upgr_Shop\InfoFont.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Debug Stuff\Dot.xnb
+C:\Users\Beer\documents\visual studio 2010\Projects\PWSXbox\PWSXbox\PWSXbox\bin\Xbox 360\Debug\Content\Graphics\Debug Stuff\sDot.xnb

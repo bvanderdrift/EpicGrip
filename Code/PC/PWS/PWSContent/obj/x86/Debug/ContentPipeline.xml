@@ -1,0 +1,1223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Controls\Button.png</Source>
+      <Name>Graphics\Controls\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Controls\Button.xnb</Output>
+      <Time>2011-12-16T21:02:10.2748523+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 1.png</Source>
+      <Name>Graphics\Basic Backgrounds\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\1.xnb</Output>
+      <Time>2011-12-27T19:28:02.153418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 2.png</Source>
+      <Name>Graphics\Basic Backgrounds\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\2.xnb</Output>
+      <Time>2011-12-27T19:28:02.159418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 3.png</Source>
+      <Name>Graphics\Basic Backgrounds\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\3.xnb</Output>
+      <Time>2011-12-27T19:28:02.167418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 4.png</Source>
+      <Name>Graphics\Basic Backgrounds\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\4.xnb</Output>
+      <Time>2011-12-27T19:28:02.173418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 5.png</Source>
+      <Name>Graphics\Basic Backgrounds\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\5.xnb</Output>
+      <Time>2011-12-27T19:28:02.179418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 6.png</Source>
+      <Name>Graphics\Basic Backgrounds\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\6.xnb</Output>
+      <Time>2011-12-27T19:28:02.185418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\SigninMenu\Selector.png</Source>
+      <Name>Graphics\SigninMenu\Selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\SigninMenu\Selector.xnb</Output>
+      <Time>2011-12-27T22:47:16.300418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Controls\ButtonFont.spritefont</Source>
+      <Name>Graphics\Controls\ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Controls\ButtonFont.xnb</Output>
+      <Time>2011-12-30T00:11:35.497237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\SigninMenu\SigninFont.spritefont</Source>
+      <Name>Graphics\SigninMenu\SigninFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\SigninMenu\SigninFont.xnb</Output>
+      <Time>2011-12-30T00:11:35.528237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Popup\HeadingFont.spritefont</Source>
+      <Name>Graphics\Popup\HeadingFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Popup\HeadingFont.xnb</Output>
+      <Time>2011-12-30T00:11:11.179237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Popup\MessageFont.spritefont</Source>
+      <Name>Graphics\Popup\MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Popup\MessageFont.xnb</Output>
+      <Time>2012-01-04T01:40:24.4601045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Angel Theme.mp3</Source>
+      <Name>Audio\Songs\Angel Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Angel Theme.xnb</Output>
+      <Extra>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Angel Theme.wma</Extra>
+      <Time>2011-12-31T18:53:35.0760997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Scary Theme.mp3</Source>
+      <Name>Audio\Songs\Scary Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Scary Theme.xnb</Output>
+      <Extra>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Scary Theme.wma</Extra>
+      <Time>2011-12-31T18:53:35.1270997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Metallic Theme.mp3</Source>
+      <Name>Audio\Songs\Metallic Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Metallic Theme.xnb</Output>
+      <Extra>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Metallic Theme.wma</Extra>
+      <Time>2011-12-31T18:54:10.5860997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\ChooseArenaFont.spritefont</Source>
+      <Name>Graphics\ChooseArena\ChooseArenaFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\ChooseArenaFont.xnb</Output>
+      <Time>2011-12-31T21:00:03.1212629+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\PreviewFrame.png</Source>
+      <Name>Graphics\ChooseArena\PreviewFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\PreviewFrame.xnb</Output>
+      <Time>2012-01-03T01:19:02.6214842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\InfoBlock.png</Source>
+      <Name>Graphics\ChooseArena\InfoBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\InfoBlock.xnb</Output>
+      <Time>2012-01-03T01:18:09.9094842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\Locked.png</Source>
+      <Name>Graphics\ChooseArena\Locked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\Locked.xnb</Output>
+      <Time>2012-01-03T01:36:54.4784842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Hell Theme.mp3</Source>
+      <Name>Audio\Songs\Hell Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Hell Theme.xnb</Output>
+      <Extra>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Hell Theme.wma</Extra>
+      <Time>2012-02-28T01:30:33.9046628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Coushon Theme.mp3</Source>
+      <Name>Audio\Songs\Coushon Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Coushon Theme.xnb</Output>
+      <Extra>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Coushon Theme.wma</Extra>
+      <Time>2012-01-03T02:18:25.3172842+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\Wooden Theme.mp3</Source>
+      <Name>Audio\Songs\Wooden Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Wooden Theme.xnb</Output>
+      <Extra>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\Wooden Theme.wma</Extra>
+      <Time>2012-01-06T20:54:20.7080236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\d-pad.png</Source>
+      <Name>Graphics\XboxButtons\64\d-pad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\d-pad.xnb</Output>
+      <Time>2012-01-04T00:33:14.3981045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_a.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_a.xnb</Output>
+      <Time>2012-01-04T00:33:14.4611045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_b.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_b.xnb</Output>
+      <Time>2012-01-04T00:33:14.4711045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_back.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_back.xnb</Output>
+      <Time>2012-01-04T00:33:14.4941045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_start.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_start.xnb</Output>
+      <Time>2012-01-04T00:33:14.5071045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_x.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_x.xnb</Output>
+      <Time>2012-01-04T00:33:14.5211045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\facebutton_y.png</Source>
+      <Name>Graphics\XboxButtons\64\facebutton_y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\facebutton_y.xnb</Output>
+      <Time>2012-01-04T00:33:14.5381045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\left_bumper.png</Source>
+      <Name>Graphics\XboxButtons\64\left_bumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\left_bumper.xnb</Output>
+      <Time>2012-01-04T00:33:14.5561045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\left_thumbstick.png</Source>
+      <Name>Graphics\XboxButtons\64\left_thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\left_thumbstick.xnb</Output>
+      <Time>2012-01-04T00:33:14.5761045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\left_trigger.png</Source>
+      <Name>Graphics\XboxButtons\64\left_trigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\left_trigger.xnb</Output>
+      <Time>2012-01-04T00:33:14.5871045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\right_bumper.png</Source>
+      <Name>Graphics\XboxButtons\64\right_bumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\right_bumper.xnb</Output>
+      <Time>2012-01-04T00:33:14.6241045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\right_thumbstick.png</Source>
+      <Name>Graphics\XboxButtons\64\right_thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\right_thumbstick.xnb</Output>
+      <Time>2012-01-04T00:33:14.6421045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\64\right_trigger.png</Source>
+      <Name>Graphics\XboxButtons\64\right_trigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\64\right_trigger.xnb</Output>
+      <Time>2012-01-04T00:33:14.6481045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\back.png</Source>
+      <Name>Graphics\XboxButtons\32\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\back.xnb</Output>
+      <Time>2012-01-04T00:33:51.8981045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\d-pad.png</Source>
+      <Name>Graphics\XboxButtons\32\d-pad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\d-pad.xnb</Output>
+      <Time>2012-01-04T00:33:51.9021045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\facebutton_a.png</Source>
+      <Name>Graphics\XboxButtons\32\facebutton_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\facebutton_a.xnb</Output>
+      <Time>2012-01-04T00:33:51.9061045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\facebutton_b.png</Source>
+      <Name>Graphics\XboxButtons\32\facebutton_b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\facebutton_b.xnb</Output>
+      <Time>2012-01-04T00:33:51.9101045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\facebutton_x.png</Source>
+      <Name>Graphics\XboxButtons\32\facebutton_x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\facebutton_x.xnb</Output>
+      <Time>2012-01-04T00:33:51.9391045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\facebutton_y.png</Source>
+      <Name>Graphics\XboxButtons\32\facebutton_y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\facebutton_y.xnb</Output>
+      <Time>2012-01-04T00:33:51.9641045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\left_bumper.png</Source>
+      <Name>Graphics\XboxButtons\32\left_bumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\left_bumper.xnb</Output>
+      <Time>2012-01-04T00:33:51.9691045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\left_thumbstick.png</Source>
+      <Name>Graphics\XboxButtons\32\left_thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\left_thumbstick.xnb</Output>
+      <Time>2012-01-04T00:33:51.9731045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\left_trigger.png</Source>
+      <Name>Graphics\XboxButtons\32\left_trigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\left_trigger.xnb</Output>
+      <Time>2012-01-04T00:33:51.9771045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\right_bumper.png</Source>
+      <Name>Graphics\XboxButtons\32\right_bumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\right_bumper.xnb</Output>
+      <Time>2012-01-04T00:33:51.9821045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\right_thumbstick.png</Source>
+      <Name>Graphics\XboxButtons\32\right_thumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\right_thumbstick.xnb</Output>
+      <Time>2012-01-04T00:33:51.9871045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\right_trigger.png</Source>
+      <Name>Graphics\XboxButtons\32\right_trigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\right_trigger.xnb</Output>
+      <Time>2012-01-04T00:33:51.9911045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\XboxButtons\32\start.png</Source>
+      <Name>Graphics\XboxButtons\32\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\XboxButtons\32\start.xnb</Output>
+      <Time>2012-01-04T00:33:51.9951045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\ArrowLeft.png</Source>
+      <Name>Graphics\ChooseArena\ArrowLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\ArrowLeft.xnb</Output>
+      <Time>2012-01-04T00:56:54.7571045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\ChooseArena\ArrowRight.png</Source>
+      <Name>Graphics\ChooseArena\ArrowRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\ChooseArena\ArrowRight.xnb</Output>
+      <Time>2012-01-04T00:56:58.9451045+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\NightClub Theme.mp3</Source>
+      <Name>Audio\Songs\NightClub Theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\NightClub Theme.xnb</Output>
+      <Extra>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Songs\NightClub Theme.wma</Extra>
+      <Time>2012-01-06T21:01:34.5140236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\PostProcessing\NightClub Arena\SpotLight.png</Source>
+      <Name>Graphics\Arenas\PostProcessing\NightClub Arena\SpotLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\PostProcessing\NightClub Arena\SpotLight.xnb</Output>
+      <Time>2012-01-07T00:08:17.0880236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\PostProcessing\Angel Arena\Halo Left.png</Source>
+      <Name>Graphics\Arenas\PostProcessing\Angel Arena\Halo Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\PostProcessing\Angel Arena\Halo Left.xnb</Output>
+      <Time>2012-01-07T00:08:27.1750236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\PostProcessing\Angel Arena\Halo Right.png</Source>
+      <Name>Graphics\Arenas\PostProcessing\Angel Arena\Halo Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\PostProcessing\Angel Arena\Halo Right.xnb</Output>
+      <Time>2012-01-07T00:08:27.1800236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shade.png</Source>
+      <Name>Graphics\Shade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\Documents\Visual Studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shade.xnb</Output>
+      <Time>2012-01-07T00:11:57.8100236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 1.png</Source>
+      <Name>Graphics\Cars\Car 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 1.xnb</Output>
+      <Time>2012-02-13T00:12:23.5019144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 1 Window.png</Source>
+      <Name>Graphics\Cars\Car 1 Window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 1 Window.xnb</Output>
+      <Time>2012-02-13T00:12:23.4969144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Debug Stuff\Dot.png</Source>
+      <Name>Graphics\Debug Stuff\Dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Debug Stuff\Dot.xnb</Output>
+      <Time>2012-01-12T20:42:47.6311479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 7.png</Source>
+      <Name>Graphics\Basic Backgrounds\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\7.xnb</Output>
+      <Time>2012-01-23T21:44:04.532243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Popup\PopupOk.png</Source>
+      <Name>Graphics\Popup\PopupOk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Popup\PopupOk.xnb</Output>
+      <Time>2011-12-30T00:11:11.221237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Popup\PopupNoOk.png</Source>
+      <Name>Graphics\Popup\PopupNoOk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Popup\PopupNoOk.xnb</Output>
+      <Time>2012-01-23T22:31:11.993243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 2.png</Source>
+      <Name>Graphics\Cars\Car 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 2.xnb</Output>
+      <Time>2012-01-08T22:53:39.7802457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 10.png</Source>
+      <Name>Graphics\Basic Backgrounds\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\10.xnb</Output>
+      <Time>2012-01-26T17:46:43.9466341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 11.png</Source>
+      <Name>Graphics\Basic Backgrounds\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\11.xnb</Output>
+      <Time>2012-01-26T17:46:43.9666341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 12.png</Source>
+      <Name>Graphics\Basic Backgrounds\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\12.xnb</Output>
+      <Time>2012-01-26T22:55:18.3796341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 8.png</Source>
+      <Name>Graphics\Basic Backgrounds\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\8.xnb</Output>
+      <Time>2012-02-15T16:16:42.2960405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Basic Backgrounds\Basic Menu Background 9.png</Source>
+      <Name>Graphics\Basic Backgrounds\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Basic Backgrounds\9.xnb</Output>
+      <Time>2012-02-15T16:16:31.1620405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 2 Window.png</Source>
+      <Name>Graphics\Cars\Car 2 Window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 2 Window.xnb</Output>
+      <Time>2012-01-08T22:53:42.6692457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\MoneyDisplay.png</Source>
+      <Name>Graphics\Shop\MoneyDisplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\MoneyDisplay.xnb</Output>
+      <Time>2012-01-26T23:12:46.2156341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\MoneyFont.spritefont</Source>
+      <Name>Graphics\Shop\MoneyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\MoneyFont.xnb</Output>
+      <Time>2012-01-26T23:13:42.6776341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\CarShop\CarInfoBox.png</Source>
+      <Name>Graphics\Shop\CarShop\CarInfoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\CarShop\CarInfoBox.xnb</Output>
+      <Time>2012-02-01T22:07:50.2678672+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\CarShop\InfoBoxFont.spritefont</Source>
+      <Name>Graphics\Shop\CarShop\InfoBoxFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\CarShop\InfoBoxFont.xnb</Output>
+      <Time>2012-01-27T00:53:14.1176341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\CarShop\ExampleRoad.png</Source>
+      <Name>Graphics\Shop\CarShop\ExampleRoad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\CarShop\ExampleRoad.xnb</Output>
+      <Time>2012-02-01T22:02:21.6348672+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Fume.png</Source>
+      <Name>Graphics\Cars\Fume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Fume.xnb</Output>
+      <Time>2012-02-01T21:51:41.2598672+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Debug Stuff\sDot.png</Source>
+      <Name>Graphics\Debug Stuff\sDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Debug Stuff\sDot.xnb</Output>
+      <Time>2012-02-01T23:16:01.8518672+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\HPFont.spritefont</Source>
+      <Name>Graphics\InGameGraphics\HPFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\HPFont.xnb</Output>
+      <Time>2012-02-11T00:21:39.6397507+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\EndingFont.spritefont</Source>
+      <Name>Graphics\InGameGraphics\EndingFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\EndingFont.xnb</Output>
+      <Time>2012-02-11T15:55:15.678854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\EndingTitleFont.spritefont</Source>
+      <Name>Graphics\InGameGraphics\EndingTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\EndingTitleFont.xnb</Output>
+      <Time>2012-02-11T15:33:45.452854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\PauseMenuFont.spritefont</Source>
+      <Name>Graphics\InGameGraphics\PauseMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\PauseMenuFont.xnb</Output>
+      <Time>2012-02-11T19:52:01.529854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 4.png</Source>
+      <Name>Graphics\Cars\Car 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 4.xnb</Output>
+      <Time>2012-02-13T00:00:23.2399144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 4 Window.png</Source>
+      <Name>Graphics\Cars\Car 4 Window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 4 Window.xnb</Output>
+      <Time>2012-01-26T22:55:54.5076341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 3 Window.png</Source>
+      <Name>Graphics\Cars\Car 3 Window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 3 Window.xnb</Output>
+      <Time>2012-02-13T00:05:54.6739144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Car 3.png</Source>
+      <Name>Graphics\Cars\Car 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Car 3.xnb</Output>
+      <Time>2012-02-13T00:05:54.6789144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\6.png</Source>
+      <Name>Graphics\Arenas\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\6.xnb</Output>
+      <Time>2012-01-07T00:13:07.9280236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\4.png</Source>
+      <Name>Graphics\Arenas\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\4.xnb</Output>
+      <Time>2011-12-31T18:47:23.9680997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\2.png</Source>
+      <Name>Graphics\Arenas\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\2.xnb</Output>
+      <Time>2011-12-31T18:47:24.0690997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\3.png</Source>
+      <Name>Graphics\Arenas\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\3.xnb</Output>
+      <Time>2011-12-31T18:47:24.0100997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\5.png</Source>
+      <Name>Graphics\Arenas\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\5.xnb</Output>
+      <Time>2011-12-31T18:47:24.0930997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\1.png</Source>
+      <Name>Graphics\Arenas\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\1.xnb</Output>
+      <Time>2011-12-31T18:47:24.1480997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Arenas\7.png</Source>
+      <Name>Graphics\Arenas\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Arenas\7.xnb</Output>
+      <Time>2012-01-06T21:14:56.6960236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\Offensive Items\Mine\Mine.png</Source>
+      <Name>Graphics\InGameGraphics\Offensive Items\Mine\Mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\Offensive Items\Mine\Mine.xnb</Output>
+      <Time>2012-02-15T16:36:44.3470405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\Offensive Items\Mine\Mine_Light.png</Source>
+      <Name>Graphics\InGameGraphics\Offensive Items\Mine\Mine_Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\Offensive Items\Mine\Mine_Light.xnb</Output>
+      <Time>2012-02-15T16:36:44.3520405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\Offensive Items\Explosion.png</Source>
+      <Name>Graphics\InGameGraphics\Offensive Items\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\Offensive Items\Explosion.xnb</Output>
+      <Time>2012-02-15T17:54:33.3510405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\MineEx.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\MineEx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\MineEx.xnb</Output>
+      <Time>2012-02-19T23:12:31.848+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\CRocketEx.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\CRocketEx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\CRocketEx.xnb</Output>
+      <Time>2012-02-19T14:44:46.7171156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\RocketEx.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\RocketEx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\RocketEx.xnb</Output>
+      <Time>2012-02-19T14:44:13.7741156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\Offensive Items\Rockets\CRocket.png</Source>
+      <Name>Graphics\InGameGraphics\Offensive Items\Rockets\CRocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\Offensive Items\Rockets\CRocket.xnb</Output>
+      <Time>2012-02-19T23:20:23.245+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\InGameGraphics\Offensive Items\Rockets\Rocket.png</Source>
+      <Name>Graphics\InGameGraphics\Offensive Items\Rockets\Rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\InGameGraphics\Offensive Items\Rockets\Rocket.xnb</Output>
+      <Time>2012-02-19T23:20:05.685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\InfoBox.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\InfoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\InfoBox.xnb</Output>
+      <Time>2012-02-22T23:21:44.3408623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\PreviewLA.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\PreviewLA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\PreviewLA.xnb</Output>
+      <Time>2012-02-22T22:39:40.7298623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\PreviewRA.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\PreviewRA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\PreviewRA.xnb</Output>
+      <Time>2012-02-22T22:39:40.7358623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\Preview.png</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\Preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\Preview.xnb</Output>
+      <Time>2012-02-22T22:39:40.7238623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\OffUpgrades Shop\InfoFont.spritefont</Source>
+      <Name>Graphics\Shop\OffUpgrades Shop\InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\OffUpgrades Shop\InfoFont.xnb</Output>
+      <Time>2012-02-22T22:54:15.7378623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Def_Upgr\Shield.png</Source>
+      <Name>Graphics\Cars\Def_Upgr\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Def_Upgr\Shield.xnb</Output>
+      <Time>2012-02-26T14:52:20.872276+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Arrow.png</Source>
+      <Name>Graphics\Customization\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Arrow.xnb</Output>
+      <Time>2012-02-24T21:36:27.7788609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cars\Def_Upgr\Shield_Glow.png</Source>
+      <Name>Graphics\Cars\Def_Upgr\Shield_Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Cars\Def_Upgr\Shield_Glow.xnb</Output>
+      <Time>2012-02-26T14:59:36.523276+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\Def_Upgr_Shop\InfoBox.png</Source>
+      <Name>Graphics\Shop\Def_Upgr_Shop\InfoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\Def_Upgr_Shop\InfoBox.xnb</Output>
+      <Time>2012-02-26T17:02:10.490276+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Shop\Def_Upgr_Shop\InfoFont.spritefont</Source>
+      <Name>Graphics\Shop\Def_Upgr_Shop\InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Shop\Def_Upgr_Shop\InfoFont.xnb</Output>
+      <Time>2012-02-26T17:02:10.503276+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Locked.png</Source>
+      <Name>Graphics\Customization\Locked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Locked.xnb</Output>
+      <Time>2012-02-27T16:42:04.7976628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Def_Upgr\Shield.png</Source>
+      <Name>Graphics\Customization\Def_Upgr\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Def_Upgr\Shield.xnb</Output>
+      <Time>2012-02-27T17:17:46.2396628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Def_Upgr\Shield_Glow.png</Source>
+      <Name>Graphics\Customization\Def_Upgr\Shield_Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Def_Upgr\Shield_Glow.xnb</Output>
+      <Time>2012-02-27T17:17:46.2626628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Color_Selection\Preview.png</Source>
+      <Name>Graphics\Customization\Color_Selection\Preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Color_Selection\Preview.xnb</Output>
+      <Time>2012-02-27T17:02:30.0126628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Cars\Car_1.png</Source>
+      <Name>Graphics\Customization\Cars\Car_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Cars\Car_1.xnb</Output>
+      <Time>2012-02-27T17:39:08.7096628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Cars\Car_2.png</Source>
+      <Name>Graphics\Customization\Cars\Car_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Cars\Car_2.xnb</Output>
+      <Time>2012-02-27T17:39:27.0356628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Cars\Car_3.png</Source>
+      <Name>Graphics\Customization\Cars\Car_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Cars\Car_3.xnb</Output>
+      <Time>2012-02-27T17:39:59.0876628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Cars\Car_4.png</Source>
+      <Name>Graphics\Customization\Cars\Car_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Cars\Car_4.xnb</Output>
+      <Time>2012-02-27T17:40:12.8676628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Off_Upgr\Upgr_1.png</Source>
+      <Name>Graphics\Customization\Off_Upgr\Upgr_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_1.xnb</Output>
+      <Time>2012-02-27T17:51:24.7096628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Off_Upgr\Upgr_3.png</Source>
+      <Name>Graphics\Customization\Off_Upgr\Upgr_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_3.xnb</Output>
+      <Time>2012-02-27T17:51:58.4146628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Off_Upgr\Upgr_2.png</Source>
+      <Name>Graphics\Customization\Off_Upgr\Upgr_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_2.xnb</Output>
+      <Time>2012-02-27T17:51:55.2136628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\ExampleRoad.png</Source>
+      <Name>Graphics\Customization\ExampleRoad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\ExampleRoad.xnb</Output>
+      <Time>2012-02-27T18:10:50.5976628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Off_Upgr\Upgr_0.png</Source>
+      <Name>Graphics\Customization\Off_Upgr\Upgr_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Off_Upgr\Upgr_0.xnb</Output>
+      <Time>2012-02-27T17:58:25.9806628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Customization\Def_Upgr\None.png</Source>
+      <Name>Graphics\Customization\Def_Upgr\None</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Customization\Def_Upgr\None.xnb</Output>
+      <Time>2012-02-27T18:44:16.8636628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Credits\CreditsFont.spritefont</Source>
+      <Name>Graphics\Credits\CreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Graphics\Credits\CreditsFont.xnb</Output>
+      <Time>2012-02-28T01:39:48.5966628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\Menu\Click.wav</Source>
+      <Name>Audio\Effects\Menu\Click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\Menu\Click.xnb</Output>
+      <Time>2012-02-28T14:16:39.1460396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\In_Game\Blast.wav</Source>
+      <Name>Audio\Effects\In_Game\Blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\In_Game\Blast.xnb</Output>
+      <Time>2012-02-28T14:22:13.1340396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\In_Game\Wall_Collisions\Metallic_Hit.wav</Source>
+      <Name>Audio\Effects\In_Game\Wall_Collisions\Metallic_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Metallic_Hit.xnb</Output>
+      <Time>2012-02-28T14:29:29.4750396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\In_Game\Wall_Collisions\Wooden_Hit.wav</Source>
+      <Name>Audio\Effects\In_Game\Wall_Collisions\Wooden_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Wooden_Hit.xnb</Output>
+      <Time>2012-02-28T15:14:45.4560396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\In_Game\Wall_Collisions\Rest_Hit.wav</Source>
+      <Name>Audio\Effects\In_Game\Wall_Collisions\Rest_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\In_Game\Wall_Collisions\Rest_Hit.xnb</Output>
+      <Time>2012-02-28T15:41:06.4680396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\Menu\Error.wav</Source>
+      <Name>Audio\Effects\Menu\Error</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\Menu\Error.xnb</Output>
+      <Time>2012-02-28T15:59:19.1490396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\Menu\Lar.wav</Source>
+      <Name>Audio\Effects\Menu\Lar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\Audio\Effects\Menu\Lar.xnb</Output>
+      <Time>2012-02-28T15:48:39.5160396+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWSContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWSContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Beer\documents\visual studio 2010\Projects\PWS\PWS\PWS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-20T11:34:08.0168+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWSXbox", "PWSXbox\PWSXbox\PWSXbox.csproj", "{4291B694-2A17-4E29-A394-6609694E8BA6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PWSXboxContent", "PWSXbox\PWSXboxContent\PWSXboxContent.contentproj", "{D219225C-3BB4-4175-A532-E42363A0328C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{4291B694-2A17-4E29-A394-6609694E8BA6}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{D219225C-3BB4-4175-A532-E42363A0328C}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{D219225C-3BB4-4175-A532-E42363A0328C}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
